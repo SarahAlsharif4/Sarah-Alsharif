@@ -15,7 +15,7 @@
   - Developing automation pipelines and decision-making systems  
 
 • 💻 Technical Skills:
-  - Programming: Python, Java, C++  
+  - Programming: Python, Java, C#  
   - Machine Learning Libraries: Scikit-learn, TensorFlow, PyTorch  
   - Data Handling & Visualization: Pandas, NumPy, Matplotlib  
   - Backend Development & APIs  
